@@ -7,7 +7,7 @@ consoleToHTML.js is a script written in javascript to display `console.log`,`con
 Add the script consoleToHTML.js on the head of your html page
 
 ```html
-<script src="consoleToHTML.js"></script>
+<script src="path/to/consoleToHTML.js"></script>
 ```
 
 ## How to use it
